@@ -1,1 +1,4 @@
-export interface Login {}
+export interface Login {
+    correo: string,
+    clave: string
+}

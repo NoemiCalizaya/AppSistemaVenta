@@ -1,1 +1,4 @@
-export interface Categoria {}
+export interface Categoria {
+    idCategoria: number,
+    nombre: string
+}
